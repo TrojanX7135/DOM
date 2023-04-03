@@ -1,0 +1,3 @@
+B1: stage file
+B2: comit
+B3: push
